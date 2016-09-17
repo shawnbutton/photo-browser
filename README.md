@@ -1,3 +1,3 @@
 README
 
-simple readme to get started
+simple readme to get started.
