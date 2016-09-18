@@ -14,7 +14,7 @@ deploy:
   provider: heroku
   api_key:
     secure: kugoRj9A9uhlppAceL1SJZ6e8KB1jUQuTb4K4l5pfOaa/LokHvbk3k+Vsvfj0oYbaNF+/Q1krLRKvyjPK5IBvX3CfjG2UXHD6/BHkorMuMdsni103+xmWpOzUV2wVFB333dFpKuStDth67Sd7KpIoAmZQOa6epLlzVdsr6Y2JB9ibK5kzbKy8J0uagXu0csX4u689EcJoBZuR5XNu39GKY1DA1xBOFZ/3oXXn9OriGtua87eAARu6eFmxnwm1RX++TG2LAB87UuVHKe2auP/uBqEC4qcccHZOZnf9uhUICH3P4phIgRJiQ/UYVjTCwlcwoAQ8t/Xah2X/MyvTR54sctEGWKsLZb48XTt/hy6UHD/23cqsJMOB9Ru6tKLSPIrNEQrDxvjT1gra0dse6RpoMqLMyY932yyba63N+zfsg9g6H+K7DiZMN4WwBWZAsYTwCAabMEy9iJ9UdYTOVN9ZHJRB1FTfAh1mMMCOyogdDj9QmNVdZKaSL1u2m+5WGo346xZEL9kZf//vxowM9cUcgeM775WYF2NKG2vsqYBuXmERGTHa44M4pdjhotdmwsikMfWpxuAF2FwsyOvhxBtGClnkRrRyDLOSheRp7IfcL45qjhUnxgXKBXSHCnzfnEXOhvhNENelFsHU431/E8pLMealp/Zpchd6YpWTTux54A=
-  app: sheltered-dusk-24641
+  app: photo-browser
   on:
     repo: shawnbutton/photo-browser
   skip_cleanup: true
