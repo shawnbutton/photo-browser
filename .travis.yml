@@ -17,3 +17,4 @@ deploy:
   app: sheltered-dusk-24641
   on:
     repo: shawnbutton/photo-browser
+  skip_cleanup: true
